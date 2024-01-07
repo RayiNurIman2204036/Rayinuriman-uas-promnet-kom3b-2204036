@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'Consolas',;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #2d2d30 !important;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+code {
+  font-family: 'Consolas', monospace, source-code-pro,
+   Menlo, Monaco, 'Courier New';
+}
